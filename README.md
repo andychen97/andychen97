@@ -5,7 +5,7 @@ Hey y'all! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, Cali
 <br>🌱 In the near future, I will be learning React, Node, and PostgreSQL.
 
 ## ⚡Technologies
-HTML5 CSS3 JavaScript Visual Studio Code Figma
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
 
 ## ✨ Fun Facts
 📍I'm from San Francisco, CA!
