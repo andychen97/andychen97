@@ -1,6 +1,9 @@
 
 ## 🤓 About Me
-Hey y'all! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, California and I'm currently learning HTML5, CSS3, JavaScript(ES5/ES6), AJAX, and APIs. I love learning new coding concepts and I'm excited to build more dynamic web pages!
+![1](https://user-images.githubusercontent.com/100327736/174872894-f7220dd1-7fa3-42b4-b183-94f9a50cf01b.jpeg)
+<br>
+<br>
+Hey everyone! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, California and I'm currently learning HTML5, CSS3, JavaScript(ES5/ES6), AJAX, and APIs. I love learning new coding concepts and I'm excited to build more dynamic web pages!
 <br>🌱 I’m currently working on an AJAX project that allows home chefs to search, view, and add their favorite recipes!
 <br>🌱 In the near future, I will be learning React, Node, and PostgreSQL.
 
@@ -11,4 +14,6 @@ Hey y'all! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, Cali
 📍I'm from San Francisco, CA!
 
 ## 🤝 Let's Connect
-[LinkedIn]([url](https://www.linkedin.com/in/andy-chen907/))
+<ul>
+  <li><a href="https://www.linkedin.com/in/andy-chen907/">LinkedIn</a></li>
+</ul>
