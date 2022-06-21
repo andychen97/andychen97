@@ -9,8 +9,6 @@ Hey y'all! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, Cali
 HTML5 CSS3 JavaScript Visual Studio Code Figma
 
 ✨ Fun Facts
-👾 In my free time, I play League of Legends, Overwatch, and Teamfight Tactics.
-🎨 I love drawing and visiting art museums!
-📍I'm from Austin, Texas- Hook 'em!🤘🏻
+📍I'm from San Francisco, CA!
 🤝 Let's Connect
 LinkedIn
