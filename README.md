@@ -11,8 +11,10 @@ Hey everyone! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, C
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
 
 ## ✨ Fun Facts
-📍I'm from San Francisco, CA<br>
-:airplane: I love traveling and trying good food<br>
+:computer: I enjoy coding and learning new stuff!<br>
+:round_pushpin: I'm from San Francisco, CA!<br>
+:airplane: I love traveling and trying new foods!
+
 
 ## 🤝 Let's Connect
 <ul>
