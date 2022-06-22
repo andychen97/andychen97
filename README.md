@@ -1,8 +1,6 @@
 
-## 🤓 About Me
 ![1](https://user-images.githubusercontent.com/100327736/174872894-f7220dd1-7fa3-42b4-b183-94f9a50cf01b.jpeg)
-<br>
-<br>
+## 🤓 About Me
 Hey everyone! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, California and I'm currently learning HTML5, CSS3, JavaScript(ES5/ES6), AJAX, and APIs. I love learning new coding concepts and I'm excited to build more dynamic web pages!
 <br>:seedling: I’m currently working on an AJAX project that allows home chefs to search, view, and add their favorite recipes!
 <br>:seedling: In the near future, I will be learning React, Node, and PostgreSQL.
