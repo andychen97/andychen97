@@ -6,7 +6,7 @@ Hey everyone! I'm Andy! I am a Full-Stack Software Engineer student in Irvine, C
 <br>:seedling: In the near future, I will be learning React, and PostgreSQL.
 
 ## ⚡Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
 
 ## ✨ Fun Facts
 :computer: I enjoy coding and learning new stuff!<br>
