@@ -4,8 +4,8 @@
 Hey everyone! I'm Andy! I am a Full-Stack Software Engineering student in Irvine, California. I love learning new coding concepts and I'm excited to build more dynamic web pages!
 <br> :deciduous_tree: Skilled in HTML5, CSS3, JavaScript(ES5/ES6), AJAX, and working with APIs
 <br> :deciduous_tree: recently finished working on an AJAX project that allows home chefs to search, view, and add their favorite recipes!
-<br>:seedling: Currently learning Node.js, express, and PostgreSQL.
-<br>:seedling: In the near future, I will be learning React.
+<br> :seedling: Currently learning Node.js, express, and PostgreSQL.
+<br> :seedling: In the near future, I will be learning React.
 
 ## ⚡Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
