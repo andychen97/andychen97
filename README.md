@@ -8,7 +8,7 @@ Hey everyone! I'm Andy! I am a Full-Stack Software Engineering student in Irvine
 <br> :seedling: In the near future, I will be learning Webpack and React.
 
 ## ⚡Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,webpack,js,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,webpack,js,nodejs,express,postgres,jsx,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
 
 ## ✨ Fun Facts
 :computer: I enjoy coding and learning new stuff!<br>
