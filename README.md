@@ -13,7 +13,7 @@ Hey everyone! I'm Andy! I am a Full-Stack Software Engineering student in Irvine
 ## ✨ Fun Facts
 :computer: I enjoy coding and learning new stuff!<br>
 :airplane: I love traveling and trying new foods!<br>
-:round_pushpin: I'm from San Francisco, CA!<br>
+:round_pushpin: I'm from San Francisco, CA!
 
 ## 🤝 Let's Connect
 <ul>
