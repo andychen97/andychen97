@@ -8,7 +8,7 @@ Hey everyone! I'm Andy! I am a Full-Stack Software Developer living in Irvine, C
 
 
 ## ⚡Technologies (but not limited to)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,npm,webpack,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,webpack,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
 
 ## ✨ Fun Facts
 :computer: I enjoy coding and learning new stuff!<br>
