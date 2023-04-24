@@ -2,8 +2,9 @@
 ## 🤓 About Me
 Hey everyone! I'm Andy! I am a Full-Stack Software Developer living in Irvine, California. I love learning new coding concepts and always excited to build more apps!
 <br> :deciduous_tree: Skilled in HTML5, CSS3, JavaScript(ES5/ES6), React, TypeScript, Node.js, Express.js, AJAX, and working with APIs
-<br> :deciduous_tree: Completed 2 versions of my personal portfolio website (v1:JSX/React and v2:TSX/React/Vite.js).
-<br> :deciduous_tree: Completed 3 versions of my personal portfolio website (JSX/React/React/Vite.js/Tailwind CSS, and Three.js).
+<br> :deciduous_tree: Completed version 1 of my personal portfolio website (v1:JSX/React).
+<br> :deciduous_tree: Completed version 2 of my personal portfolio website (TSX/React/Vite.js).
+<br> :deciduous_tree: Completed version 3 of my personal portfolio website (JSX/React/React/Vite.js/Tailwind CSS, and Three.js).
 <br> :seedling: Currently practicing Node.js, Express, and PostgreSQL, and React.
 <br> :seedling: Currently looking into optimizing v3 of my portfolio!
 
