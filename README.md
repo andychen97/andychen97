@@ -1,7 +1,7 @@
 ![1](https://user-images.githubusercontent.com/100327736/174872894-f7220dd1-7fa3-42b4-b183-94f9a50cf01b.jpeg)
 ## 🤓 About Me
 Hey everyone! I'm Andy! I am a Full-Stack Software Developer living in Irvine, California. I love learning new coding concepts and always excited to build more apps!
-<br> :deciduous_tree: Skilled in HTML5, CSS3, JavaScript(ES5/ES6), React, TypeScript, Node.js, Express.js, AJAX, and working with APIs
+<br> :deciduous_tree: Skilled in HTML5, CSS3, JavaScript, React, TypeScript, TailwindCSS, Bootstrap, Node.js, Express.js, AJAX, and working with APIs
 <br> :deciduous_tree: Completed version 1 of my personal portfolio website (JSX / React).
 <br> :deciduous_tree: Completed version 2 of my personal portfolio website (TypeScript / React / Vite.js).
 <br> :deciduous_tree: Completed version 3 of my personal portfolio website (JSX / React / TailwindCSS / Three.js / Vite.js).
@@ -10,7 +10,7 @@ Hey everyone! I'm Andy! I am a Full-Stack Software Developer living in Irvine, C
 
 
 ## ⚡Technologies (but not limited to)
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,react,typescript,webpack,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,js,react,typescript,webpack,nodejs,express,postgres,py,mysql,vscode,figma,git,github)](https://skillicons.dev)
 
 ## ✨ Fun Facts
 :computer: I enjoy coding and learning new stuff!<br>
